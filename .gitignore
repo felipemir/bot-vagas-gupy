@@ -1,0 +1,13 @@
+# .gitignore
+
+# Arquivo de configuração com dados sensíveis
+config.py
+
+# Executável do WebDriver
+chromedriver.exe
+
+# Arquivo de memória do bot
+vagas_ja_enviadas.txt
+
+# Pastas de cache do Python
+__pycache__/
